@@ -1,0 +1,4 @@
+class Sup
+{ public static void main
+{System.out.print.ln("what's up");
+}}
